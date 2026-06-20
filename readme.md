@@ -3,7 +3,7 @@
 ive Deployment: https://aashuutosh-bankmind-ashutosh-app-7vjqp4.streamlit.app/
 This repository contains my submission for Track A of the BankMind Community Project Screening Task. It features an interactive Streamlit dashboard that analyzes the UCI Bank Marketing dataset to identify cross-selling opportunities for term deposits.
 
-**Live Deployment:** [Link to your deployed app will go here]
+**Live Deployment:** https://aashuutosh-bankmind-ashutosh-app-7vjqp4.streamlit.app/
 
 ## Files Included
 * `app.py`: The main Streamlit application containing the data processing and Plotly visualizations.
